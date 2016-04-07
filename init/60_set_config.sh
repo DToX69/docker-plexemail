@@ -21,4 +21,4 @@ fi
 crontab /defaults/plexemail
 
 chown abc:abc -R /config
-chown abc:abc -R /web
+chown abc:abc -R /app/plexemail/web
